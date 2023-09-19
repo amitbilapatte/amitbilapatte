@@ -3,9 +3,6 @@
 # About
 
 I'm all about fostering innovation and learning. I lead R&D projects and advanced education efforts to empower minds and push the limits of technology. My journey speaks to my strong commitment to these ideals.
-<div  align="right">
-  <a href="https://app.daily.dev/AmitReddy"><img src="https://api.daily.dev/devcards/c3042eff5f48471aa0d7688f247108db.png?r=0ah" width="400" alt="Amit B.'s Dev Card"/></a>
-</div>
 
 <!--
 **amitbilapatte/amitbilapatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
