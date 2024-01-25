@@ -67,7 +67,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="Gitlab logo" title="Gitlab" />
   <img width="25" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" title="Docker" />
-  <img width="25" />          
+  <img width="25" />    
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes logo" title="Kubernetes" />
+  <img width="25" />  
           
 </div>
 
