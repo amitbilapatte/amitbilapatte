@@ -73,6 +73,14 @@ Here are some ideas to get you started:
           
 </div>
 
+# Profile Stats
+
+<div align="left">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=amitbilapatte" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbilapatte" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbilapatte" height="150" alt="languages graph"  />
+</div>
+
 # Let's Connect!
 Feel free to connect with me. Let's collaborate and share ideas!
 
