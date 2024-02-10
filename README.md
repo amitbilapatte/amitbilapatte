@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </div>
 
 # Let's Connect!
-Feel free to connect with me. Let's collaborate and share ideas!
+**Feel free to connect with me. Let's collaborate and share ideas!**
 
 - 📫 How to reach me: ...
 <div align="left">
